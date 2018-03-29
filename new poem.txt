@@ -3,6 +3,7 @@ the rainbow and the unicorn
 blue 
 purple
 green
+indigo
 unicorn
 magenta
 white
