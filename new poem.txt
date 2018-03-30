@@ -6,6 +6,7 @@ green
 indigo
 unicorn
 magenta
+earth day special 'recycle!'
 white
 red
 orange
